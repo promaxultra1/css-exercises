@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* MY SOLUTION................................................ */
+
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 50px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  
+}
+
+.info {
+  max-width: 200px;
+ 
+}
